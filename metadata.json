@@ -1,0 +1,6 @@
+{
+  "name": "High School Taiyar - Class 10th Board Exam Prep",
+  "description": "कक्षा 10वीं हाई स्कूल बोर्ड परीक्षा की सम्पूर्ण तैयारी ऐप - नोट्स, फार्मूला शीट, मॉडल पेपर, क्विज़ और AI गुरुजी डाउट सॉल्वर।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
